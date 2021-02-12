@@ -7,8 +7,15 @@ of NVIDIA's real self-driving car called Dave-2, which drove on public
 roads using a CNN. DeepPicar uses the same CNN architecture of NVIDIA's
 Dave-2 and can drive itself in real-time locally on a Raspberry Pi 3.
 
-Training:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karenw1004/Deeppicar-v3/blob/main/Training.ipynb)
+Preprocess:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karenw1004/Deeppicar-v3/blob/main/notebooks/1_Preprocess.ipynb)
+
+Train:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karenw1004/Deeppicar-v3/blob/main/notebooks/2_Train.ipynb)
+
+Inference:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karenw1004/Deeppicar-v3/blob/main/notebooks/3_Inference.ipynb)
+
 
 Video:
 
